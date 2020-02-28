@@ -1,0 +1,2 @@
+rootProject.name='Mp4Reader'
+include ':app'
